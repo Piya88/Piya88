@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Piya88
+- 👋 Hi, I’m Priyanka
 - 👀 I’m passionate about artificial intelligence and its applications, with a particular focus on machine learning and deep learning algorithms.
-- 🌱 I'm currently learning about neural networks and computer vision.
-- 💞️ I’m looking to collaborate on projects related to computer vision.
+- 🌱 I'm currently learning about machine learning, neural networks and computer vision.
+- 💞️ I’m looking to collaborate on projects related to machine learning and computer vision.
 - 📫 How to reach me .. Feel free to reach out to me via email at priyankajambhale23@gmail.com or connect with me on LinkedIn: www.linkedin.com/in/priyanka-jambhale-5593a2240
 
 <!---
